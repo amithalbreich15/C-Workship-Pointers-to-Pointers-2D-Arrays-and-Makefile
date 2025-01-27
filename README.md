@@ -74,5 +74,3 @@ All functionality is based on a defined `matrix` structure, which includes:
   ```  
 
 ---
-
-By following these instructions and implementing the required functionality, you will create a robust and efficient library for matrix operations in C.
